@@ -51,7 +51,7 @@
 				"sound": "sound/dianji4_talk.mp3",
 				"fade_in": 0,
 				"fade_out": 0
-			},
+			}
 		],
 		"tap_head_idle2": [{
 				"file": "motions/dianji5.mtn",
@@ -112,7 +112,7 @@
 				"sound": "sound/dianji6_talk.mp3",
 				"fade_in": 0,
 				"fade_out": 0
-			},
+			}
 		],
 		"dianji7": [{
 			"file": "motions/dianji7.mtn",
