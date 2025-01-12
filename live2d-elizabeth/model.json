@@ -28,7 +28,7 @@
 			"sound": "sound/dianji1_talk.mp3",
 			"fade_in": 0,
 			"fade_out": 0
-		}, ],
+		}],
 		"dianji_2": [{
 			"file": "motions/dianji2.mtn",
 			"fade_in": 0,
