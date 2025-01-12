@@ -119,6 +119,6 @@
 			"sound": "sound/dianji7_talk.mp3",
 			"fade_in": 0,
 			"fade_out": 0
-		}, ],
-	},
+		}]
+	}
 }
