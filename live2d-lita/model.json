@@ -5,7 +5,7 @@
 		"Lita.2048/texture_00.png"
 	],
 	"motions":{
-		
+		1
 	},
 	"physics":"physics.json",
 	"project_settings":"embed://111.json",
